@@ -1,9 +1,3 @@
-# Psychology & Sociology
+# Psychology & Sociology Notes
 
-## Psychology
-- Behavior and Learning
-- Memory
-
-## Sociology
-- Culture and Demographics
-- Social Structures
+Content coming soon...

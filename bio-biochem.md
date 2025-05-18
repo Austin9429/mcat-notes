@@ -1,11 +1,3 @@
-# Biology & Biochemistry
+# Biology & Biochemistry Notes
 
-## Biochemistry
-- Amino Acids
-- Enzymes
-- Metabolism
-
-## Biology
-- Cell Structure
-- Genetics
-- Organ Systems
+Content coming soon...
