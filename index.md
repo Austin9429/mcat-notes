@@ -2,4 +2,7 @@
 
 Welcome to my MCAT study notes! Choose a section below:
 
-- [Biological and Biochemical Foundations of Living Systems](notes\Biological and Biochemical Foundations of Living Systems.md)
+- [Chemistry & Physics](chemphys.md)
+- [CARS (Critical Analysis and Reasoning Skills)](cars.md)
+- [Biology & Biochemistry](bio-biochem.md)
+- [Psychology & Sociology](psychsoc.md)
