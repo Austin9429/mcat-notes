@@ -1,2 +1,4 @@
-theme: minima
 title: MCAT Notes
+description: My MCAT study notes
+markdown: kramdown
+theme: minima

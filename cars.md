@@ -1,3 +1,0 @@
-# CARS Notes
-
-Content coming soon...

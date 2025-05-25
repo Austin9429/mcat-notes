@@ -1,3 +1,0 @@
-# Biology & Biochemistry Notes
-
-Content coming soon...

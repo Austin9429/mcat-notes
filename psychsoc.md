@@ -1,3 +1,0 @@
-# Psychology & Sociology Notes
-
-Content coming soon...
